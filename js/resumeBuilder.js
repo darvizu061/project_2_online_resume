@@ -146,7 +146,7 @@ bio.displayBio = function() {
 bio.displayBio();
 
     //Displays Work Resume
-function displayWork(){
+work.displayWork = function (){
     for (job in work.jobs) {
         
         $("#workExperience").append(HTMLworkStart);
@@ -166,7 +166,7 @@ function displayWork(){
         $(".work-entry:last").append(formattedEmployer + formattedTitle + formattedDates + formattedLocation + formattedDescription);
     }
 }
-displayWork();
+work.displayWork();
     
     //Function that displays projects
 projects.display = function (){
