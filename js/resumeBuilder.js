@@ -145,6 +145,7 @@ bio.displayBio = function() {
 };
 bio.displayBio();
 
+
     //Displays Work Resume
 work.displayWork = function (){
     for (job in work.jobs) {
