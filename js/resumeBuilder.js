@@ -29,14 +29,6 @@ var education = {
             "degree": "High School Diploma",
             "schoolURL": "http://www.cristorey.net/",
             "major": "Not Applicable"
-        },
-        {
-            "name": "Harvard University",
-            "location": "Cambridge, MA 02138",
-            "dates": "August 2010 - June 2014",
-            "degree": "Bachelor in Economics",
-            "schoolURL": "http://www.harvard.edu/",
-            "major": "Economics"
         }
     ],
 
