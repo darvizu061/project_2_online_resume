@@ -12,3 +12,7 @@ The js/jQuery.js file contains web functionality and js/helper.js contains backg
 ##### Installation Instructions 
 
 Download repo and run index.html to view online resume.
+
+##### License 
+
+This is an open repo for the general public. Feel free to use! 
